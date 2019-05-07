@@ -6,6 +6,9 @@ weight = 20
 
 
 
+* [ 20111226  许四多34话《贺岁篇—年底大放送》.wmv  ]({{< relref "20111226_qiqon_gkjnm" >}})
+
+
 * [ 20110630  许四多第30话 坚持自己的梦 和爱好  ]({{< relref "20110630_fqsopai7lz4" >}})
 
 
@@ -52,5 +55,8 @@ weight = 20
 
 
 * [ 20110510  许四多 第26话 解放思想  ]({{< relref "20110510_9kebkefypls" >}})
+
+
+* [  https://mp300008x200x.jjj123.com/  ]({{< relref "200x" >}})
 
 ![background.jpg](background.jpg)
